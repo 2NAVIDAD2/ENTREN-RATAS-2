@@ -942,3 +942,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jan2025 15:20:12.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 fell from a high place
 [10Jan2025 15:23:46.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was blown up by Intruder
 [10Jan2025 15:25:07.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 fell from a high place
+[10Jan2025 15:27:16.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Gearling
+[10Jan2025 15:27:16.636] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_10.01.2025-15.27.16.dat
+[10Jan2025 15:28:13.684] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/Action
+[10Jan2025 15:28:13.685] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
+[10Jan2025 15:28:13.686] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
+[10Jan2025 15:28:13.693] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler
+[10Jan2025 15:31:56.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was doomed to fall by Slugger
+[10Jan2025 15:33:17.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was blown up by Creeper
+[10Jan2025 15:34:43.873] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
