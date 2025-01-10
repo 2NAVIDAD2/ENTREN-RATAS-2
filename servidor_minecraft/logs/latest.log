@@ -901,3 +901,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jan2025 14:54:30.763] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BastiMC[/127.147.255.185:49411] logged in with entity id 14910 at (-830.5618128413513, 176.5, 1049.2470112084748)
 [10Jan2025 14:54:30.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC joined the game
 [10Jan2025 14:54:30.799] [Server thread/INFO] [Jade/]: Syncing config to BastiMC (4938fc54-3b3a-35a1-9aac-7049868f6dcb)
+[10Jan2025 14:54:58.780] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[10Jan2025 15:02:34.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Skeleton
+[10Jan2025 15:02:34.814] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_10.01.2025-15.02.34.dat
+[10Jan2025 15:04:36.420] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[10Jan2025 15:05:10.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD has made the advancement [Vampire Slayer]
+[10Jan2025 15:05:28.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Skeleton
+[10Jan2025 15:06:59.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Gearling
+[10Jan2025 15:07:30.078] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Fisk of the Sand'/249, l='ServerLevel[world]', x=-190.62, y=-41.00, z=499.40] died: Fisk of the Sand was slain by Mansana_12
+[10Jan2025 15:07:31.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Gearling
+[10Jan2025 15:07:52.950] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAVIDAD lost connection: Disconnected
+[10Jan2025 15:07:52.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD left the game
+[10Jan2025 15:07:53.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mansana_12 lost connection: Disconnected
+[10Jan2025 15:07:53.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 left the game
+[10Jan2025 15:08:13.169] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mansana_12[/127.147.255.185:33173] logged in with entity id 22976 at (-191.79175408154717, -41.0, 490.4056402487477)
+[10Jan2025 15:08:13.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
+[10Jan2025 15:08:13.199] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
+[10Jan2025 15:08:27.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Gearling
+[10Jan2025 15:08:41.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAVIDAD[/127.147.255.185:50583] logged in with entity id 23539 at (-204.90910553540294, -5.0, 555.0426315539943)
+[10Jan2025 15:08:41.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD joined the game
+[10Jan2025 15:08:41.192] [Server thread/INFO] [Jade/]: Syncing config to NAVIDAD (1972ff52-d48b-32c5-a5fe-384380583832)
+[10Jan2025 15:09:06.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Gearling
+[10Jan2025 15:09:18.658] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mansana_12 lost connection: Disconnected
+[10Jan2025 15:09:18.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 left the game
+[10Jan2025 15:09:32.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Gearling
+[10Jan2025 15:11:19.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mansana_12[/127.147.255.185:47465] logged in with entity id 26290 at (-186.5703755585781, -35.0, 508.69999998807907)
+[10Jan2025 15:11:19.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
+[10Jan2025 15:11:19.597] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
+[10Jan2025 15:11:34.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Sprinter
+[10Jan2025 15:11:34.655] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_10.01.2025-15.11.34.dat
+[10Jan2025 15:12:03.420] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[10Jan2025 15:12:17.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Gearling
+[10Jan2025 15:13:03.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Gearling
+[10Jan2025 15:13:30.758] [Worker-Main-23/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[10Jan2025 15:14:06.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 has made the advancement [All Along The Watchtower]
+[10Jan2025 15:14:17.528] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/30333, l='ServerLevel[world]', x=-830.70, y=221.42, z=1051.46] died: Gearling was slain by BastiMC
+[10Jan2025 15:14:18.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Gearling
