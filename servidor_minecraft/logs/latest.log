@@ -851,3 +851,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jan2025 14:31:46.968] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
 [10Jan2025 14:31:46.968] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
 [10Jan2025 14:32:36.124] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[10Jan2025 14:32:59.456] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[10Jan2025 14:33:38.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[10Jan2025 14:33:46.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mansana_12 lost connection: Disconnected
+[10Jan2025 14:33:46.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 left the game
+[10Jan2025 14:33:46.387] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[10Jan2025 14:33:50.066] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
+[10Jan2025 14:36:07.450] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/4081, l='ServerLevel[world]', x=-820.15, y=161.00, z=1054.15] died: Gearling was doomed to fall by BastiMC
+[10Jan2025 14:36:17.850] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/4146, l='ServerLevel[world]', x=-820.15, y=161.00, z=1054.15] died: Gearling was doomed to fall by BastiMC
+[10Jan2025 14:36:38.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BastiMC lost connection: Disconnected
+[10Jan2025 14:36:38.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC left the game
+[10Jan2025 14:36:58.572] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BastiMC[/127.147.255.185:46193] logged in with entity id 4643 at (-824.6051097051023, 166.0, 1056.7075408660585)
+[10Jan2025 14:36:58.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC joined the game
+[10Jan2025 14:36:58.597] [Server thread/INFO] [Jade/]: Syncing config to BastiMC (4938fc54-3b3a-35a1-9aac-7049868f6dcb)
+[10Jan2025 14:38:06.274] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[10Jan2025 14:39:25.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mansana_12[/127.147.255.185:59363] logged in with entity id 5936 at (-2165.5390541557526, 76.0, 1308.2690000709954)
+[10Jan2025 14:39:25.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
+[10Jan2025 14:39:25.502] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
+[10Jan2025 14:41:04.589] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[10Jan2025 14:41:06.385] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_106
+[10Jan2025 14:41:06.467] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_173
+[10Jan2025 14:41:09.506] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_049
+[10Jan2025 14:41:11.430] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/memory/MemoryStatus
+[10Jan2025 14:41:11.431] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/Behavior$Status
+[10Jan2025 14:41:11.476] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$OrderPolicy
+[10Jan2025 14:41:11.484] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/GateBehavior$RunningPolicy
+[10Jan2025 14:41:46.914] [Worker-Main-6/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[10Jan2025 14:41:46.915] [Worker-Main-6/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[10Jan2025 14:41:56.471] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[10Jan2025 14:42:50.327] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BastiMC lost connection: Disconnected
+[10Jan2025 14:42:50.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC left the game
+[10Jan2025 14:43:11.196] [Worker-Main-22/INFO] [ModernFix/]: Instantiating Mojang DFU
+[10Jan2025 14:43:16.246] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id scpo:scp_966
+[10Jan2025 14:43:40.632] [Worker-Main-22/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[10Jan2025 14:44:25.898] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[10Jan2025 14:44:26.155] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
