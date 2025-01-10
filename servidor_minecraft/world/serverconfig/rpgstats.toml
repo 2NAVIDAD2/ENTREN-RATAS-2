@@ -1,0 +1,56 @@
+
+[General]
+	#default: 50
+	"Requirement Base" = 50.0
+	#default: 25
+	"Requirement Increase" = 25.0
+	"Maximum Level" = 100.0
+
+["Stat 1"]
+	#default: Health
+	Name = "Health"
+	#default: minecraft:generic.max_health
+	"Attribute Path" = ""
+	#default: 20
+	"Base Value" = 20.0
+	#default: 1
+	"Increase per Level" = 1.0
+	#default: 3
+	"Point Cost" = 3.0
+
+["Stat 2"]
+	#default: Strength
+	Name = "Strength"
+	#default: minecraft:generic.attack_damage
+	"Attribute Path" = "minecraft:generic.attack_damage"
+	#default: 1
+	"Base Value" = 1.0
+	#default: 0.015
+	"Increase per Level" = 0.01
+	#default: 1
+	"Point Cost" = 1.0
+
+["Stat 3"]
+	#default: Speed
+	Name = "Speed"
+	#default: minecraft:generic.movement_speed
+	"Attribute Path" = "minecraft:generic.movement_speed"
+	#default: 0.1
+	"Base Value" = 0.1
+	#default: .001
+	"Increase per Level" = 0.001
+	#default: 1
+	"Point Cost" = 1.0
+
+["Stat 4"]
+	#default: Defense
+	Name = "Defense"
+	#default: minecraft:generic.armor
+	"Attribute Path" = "minecraft:generic.armor"
+	#default: 0
+	"Base Value" = 0.0
+	#default: 1
+	"Increase per Level" = 1.0
+	#default: 2
+	"Points Cost" = 2.0
+
