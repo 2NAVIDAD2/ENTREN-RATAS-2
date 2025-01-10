@@ -937,3 +937,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jan2025 15:14:06.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 has made the advancement [All Along The Watchtower]
 [10Jan2025 15:14:17.528] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/30333, l='ServerLevel[world]', x=-830.70, y=221.42, z=1051.46] died: Gearling was slain by BastiMC
 [10Jan2025 15:14:18.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Gearling
+[10Jan2025 15:17:44.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC was slain by Gearling
+[10Jan2025 15:18:14.863] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[10Jan2025 15:20:12.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 fell from a high place
+[10Jan2025 15:23:46.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was blown up by Intruder
+[10Jan2025 15:25:07.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 fell from a high place
