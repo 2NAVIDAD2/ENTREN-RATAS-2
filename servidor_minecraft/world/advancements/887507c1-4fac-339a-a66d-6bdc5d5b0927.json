@@ -464,6 +464,7 @@
       "minecraft:husk": "2025-01-05 23:19:26 +0000",
       "minecraft:cave_spider": "2025-01-10 15:59:19 +0000",
       "minecraft:silverfish": "2025-01-05 20:21:00 +0000",
+      "minecraft:enderman": "2025-01-12 23:34:31 +0000",
       "minecraft:vex": "2025-01-05 23:50:05 +0000",
       "minecraft:zombie": "2025-01-04 22:26:28 +0000",
       "minecraft:drowned": "2024-12-30 02:09:44 +0000",
@@ -3181,6 +3182,48 @@
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-01-12 23:22:39 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "bluemoon_short": "2025-01-12 23:40:11 +0000"
+    },
+    "done": false
+  },
+  "ironchest:recipes/decorations/upgrades/gold_to_diamond_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-01-12 23:33:15 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:bluemoon_tools": {
+    "criteria": {
+      "soulsweapons:bluemoon_shortsword": "2025-01-12 23:40:11 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/diamond_to_obsidian_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-01-12 23:33:15 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/diamond_to_crystal_chest_upgrade": {
+    "criteria": {
+      "has_glass": "2025-01-12 23:33:15 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_crystal_chest": {
+    "criteria": {
+      "has_glass": "2025-01-12 23:33:15 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:disgusting_lootbox": {
+    "criteria": {
+      "disgusting_lootbox_0": "2025-01-12 23:39:07 +0000"
     },
     "done": true
   },
