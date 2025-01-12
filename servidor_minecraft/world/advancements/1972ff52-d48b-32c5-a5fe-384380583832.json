@@ -3547,5 +3547,17 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2025-01-12 23:30:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_smithing": {
+    "criteria": {
+      "has_iron": "2025-01-12 23:24:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
