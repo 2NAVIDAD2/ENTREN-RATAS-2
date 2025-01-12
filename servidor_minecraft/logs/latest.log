@@ -934,3 +934,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jan2025 23:44:32.163] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
 [12Jan2025 23:44:32.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 has made the advancement [We Need to Go Deeper]
 [12Jan2025 23:44:39.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> y el plus ultra??
+[12Jan2025 23:46:51.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 fell from a high place
+[12Jan2025 23:46:51.085] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_12.01.2025-23.46.51.dat
+[12Jan2025 23:47:57.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-12, y=65, z=5} BlockPos{x=-12, y=60, z=-9}
+[12Jan2025 23:49:29.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <NAVIDAD> ya regreso
+[12Jan2025 23:49:31.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAVIDAD lost connection: Disconnected
+[12Jan2025 23:49:31.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD left the game
+[12Jan2025 23:54:34.555] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/soulsweaponry/entity/ai/goal/AccursedLordGoal$BarrageProjectiles

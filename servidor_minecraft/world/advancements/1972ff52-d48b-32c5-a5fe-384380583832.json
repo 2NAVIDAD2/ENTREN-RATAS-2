@@ -3565,6 +3565,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/tools/hose": {
+    "criteria": {
+      "has_hose_nozzle": "2025-01-12 23:46:54 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron_smithing": {
     "criteria": {
       "has_iron": "2025-01-12 23:24:56 +0000"
