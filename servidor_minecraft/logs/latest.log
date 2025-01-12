@@ -857,3 +857,49 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Jan2025 23:02:59.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 fell from a high place
 [12Jan2025 23:04:43.479] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [12Jan2025 23:04:43.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> bistecksote
+[12Jan2025 23:04:52.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BastiMC lost connection: Disconnected
+[12Jan2025 23:04:52.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC left the game
+[12Jan2025 23:05:08.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BastiMC[/127.147.255.185:38561] logged in with entity id 5463 at (-500.2321270661504, 71.0, 1.4081729663129996)
+[12Jan2025 23:05:08.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC joined the game
+[12Jan2025 23:05:08.265] [Server thread/INFO] [Jade/]: Syncing config to BastiMC (4938fc54-3b3a-35a1-9aac-7049868f6dcb)
+[12Jan2025 23:05:08.782] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[12Jan2025 23:06:58.529] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[12Jan2025 23:07:43.864] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[12Jan2025 23:08:01.354] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[12Jan2025 23:11:02.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[12Jan2025 23:11:02.510] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_12.01.2025-23.11.02.dat
+[12Jan2025 23:11:22.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[12Jan2025 23:11:40.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[12Jan2025 23:11:57.246] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[12Jan2025 23:12:07.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[12Jan2025 23:12:25.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[12Jan2025 23:12:34.696] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[12Jan2025 23:13:16.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[12Jan2025 23:18:09.771] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[12Jan2025 23:18:09.992] [Worker-Main-6/INFO] [ModernFix/]: Instantiating Mojang DFU
+[12Jan2025 23:18:14.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC has made the advancement [We Need to Go Deeper]
+[12Jan2025 23:18:14.869] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[12Jan2025 23:18:19.353] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9556ms or 191 ticks behind
+[12Jan2025 23:18:25.608] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[12Jan2025 23:18:25.625] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[12Jan2025 23:18:42.367] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/soulsweaponry/entity/mobs/AccursedLordBoss$AccursedLordAnimations
+[12Jan2025 23:18:43.831] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[12Jan2025 23:18:43.851] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[12Jan2025 23:18:53.409] [Worker-Main-23/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: dungeons_enhanced:bridge
+[12Jan2025 23:19:38.577] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAVIDAD[/127.147.255.185:45059] logged in with entity id 15479 at (-373.92042507716445, 62.0, 430.3363175069781)
+[12Jan2025 23:19:38.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD joined the game
+[12Jan2025 23:19:38.613] [Server thread/INFO] [Jade/]: Syncing config to NAVIDAD (1972ff52-d48b-32c5-a5fe-384380583832)
+[12Jan2025 23:20:01.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 burned to death
+[12Jan2025 23:21:44.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <NAVIDAD> sigo durmiendo
+[12Jan2025 23:22:35.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <NAVIDAD> sigo durmiendo
+[12Jan2025 23:22:40.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <NAVIDAD> sigo durmiendo
+[12Jan2025 23:22:47.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mansana_12 lost connection: Disconnected
+[12Jan2025 23:22:47.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 left the game
+[12Jan2025 23:23:00.572] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mansana_12[/127.147.255.185:48299] logged in with entity id 17658 at (-834.4747392004239, 177.0, 1063.6496127320768)
+[12Jan2025 23:23:00.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
+[12Jan2025 23:23:00.590] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
+[12Jan2025 23:23:42.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC burned to death
+[12Jan2025 23:23:42.975] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for BastiMC with unique ID travelersbackpack.standard_12.01.2025-23.23.42.dat
+[12Jan2025 23:23:49.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> bistevk
+[12Jan2025 23:24:26.166] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[12Jan2025 23:24:33.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 burned to death
