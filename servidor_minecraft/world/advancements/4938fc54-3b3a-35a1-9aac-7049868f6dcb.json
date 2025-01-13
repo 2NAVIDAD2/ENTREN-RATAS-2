@@ -459,6 +459,7 @@
       "suspicious_stew": "2025-01-04 21:46:00 +0000",
       "cookie": "2025-01-05 15:51:52 +0000",
       "glow_berries": "2025-01-05 22:38:38 +0000",
+      "melon_slice": "2025-01-13 00:04:50 +0000",
       "golden_carrot": "2025-01-12 23:30:11 +0000",
       "cod": "2025-01-05 23:07:56 +0000",
       "carrot": "2025-01-05 16:39:23 +0000"
@@ -3820,6 +3821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-13 00:01:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-12 23:54:50 +0000"
@@ -3851,6 +3858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-13 00:01:21 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/squid": {
     "criteria": {
       "has_ink_sac": "2025-01-12 23:43:31 +0000"
@@ -3869,9 +3882,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-01-13 00:01:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-12 23:54:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-13 00:01:21 +0000"
     },
     "done": true
   },
