@@ -847,3 +847,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jan2025 21:52:10.412] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
 [18Jan2025 21:52:12.071] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
 [18Jan2025 21:52:12.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> ajmksnn}
+[18Jan2025 22:01:37.660] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[18Jan2025 22:01:37.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Drowned
+[18Jan2025 22:01:37.683] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_18.01.2025-22.01.37.dat
