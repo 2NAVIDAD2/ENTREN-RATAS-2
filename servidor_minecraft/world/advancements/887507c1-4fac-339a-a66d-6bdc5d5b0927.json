@@ -32,6 +32,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-18 02:38:12 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-01-18 22:35:54 +0000",
       "minecraft:sunflower_plains": "2025-01-07 17:22:58 +0000",
       "minecraft:cherry_grove": "2025-01-13 02:15:00 +0000",
       "minecraft:birch_forest": "2025-01-10 14:43:35 +0000",
@@ -3590,6 +3591,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-18 22:34:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2025-01-18 22:27:26 +0000"
@@ -3623,6 +3630,18 @@
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-01-18 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-18 22:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-01-18 22:34:49 +0000"
     },
     "done": true
   },

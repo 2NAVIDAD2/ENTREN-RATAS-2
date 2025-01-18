@@ -864,3 +864,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jan2025 22:19:49.616] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
 [18Jan2025 22:22:57.706] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
 [18Jan2025 22:24:38.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> asd
+[18Jan2025 22:36:12.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> asd
+[18Jan2025 22:39:49.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 burned to death
+[18Jan2025 22:39:49.365] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_18.01.2025-22.39.49.dat
+[18Jan2025 22:40:34.713] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mansana_12 lost connection: Disconnected
+[18Jan2025 22:40:34.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 left the game
