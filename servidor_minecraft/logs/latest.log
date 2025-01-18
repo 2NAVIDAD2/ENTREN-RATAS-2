@@ -857,3 +857,56 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jan2025 01:58:55.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
 [18Jan2025 01:59:19.603] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
 [18Jan2025 02:00:40.907] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[18Jan2025 02:01:51.261] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[18Jan2025 02:01:55.403] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[18Jan2025 02:02:31.239] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/Action
+[18Jan2025 02:02:31.242] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
+[18Jan2025 02:02:31.245] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
+[18Jan2025 02:02:31.257] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler
+[18Jan2025 02:02:37.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD has made the advancement [Ice Bucket Challenge]
+[18Jan2025 02:03:10.848] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[18Jan2025 02:05:09.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BastiMC lost connection: Disconnected
+[18Jan2025 02:05:09.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC left the game
+[18Jan2025 02:05:19.814] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BastiMC[/127.147.255.185:51197] logged in with entity id 7214 at (-30.69375410583937, 119.0, 969.6999999880791)
+[18Jan2025 02:05:19.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC joined the game
+[18Jan2025 02:05:19.865] [Server thread/INFO] [Jade/]: Syncing config to BastiMC (4938fc54-3b3a-35a1-9aac-7049868f6dcb)
+[18Jan2025 02:06:45.196] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mansana_12[/127.147.255.185:60367] logged in with entity id 8420 at (-1750.3381535718945, 124.5, 485.870677143969)
+[18Jan2025 02:06:45.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
+[18Jan2025 02:06:45.231] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
+[18Jan2025 02:07:34.402] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[18Jan2025 02:07:34.409] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[18Jan2025 02:07:51.343] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[18Jan2025 02:07:53.653] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[18Jan2025 02:07:59.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mansana_12 lost connection: Disconnected
+[18Jan2025 02:07:59.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 left the game
+[18Jan2025 02:08:01.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BastiMC lost connection: Disconnected
+[18Jan2025 02:08:01.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC left the game
+[18Jan2025 02:08:05.823] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BastiMC[/127.147.255.185:43895] logged in with entity id 10242 at (-463.9437387113721, 65.0, 1282.162442156916)
+[18Jan2025 02:08:05.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC joined the game
+[18Jan2025 02:08:05.877] [Server thread/INFO] [Jade/]: Syncing config to BastiMC (4938fc54-3b3a-35a1-9aac-7049868f6dcb)
+[18Jan2025 02:08:09.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mansana_12[/127.147.255.185:48853] logged in with entity id 10440 at (-1756.0514596969526, 109.0, 479.84220032945586)
+[18Jan2025 02:08:09.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
+[18Jan2025 02:08:09.390] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
+[18Jan2025 02:08:42.876] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[18Jan2025 02:10:45.608] [Worker-Main-1/INFO] [ModernFix/]: Instantiating Mojang DFU
+[18Jan2025 02:10:47.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 has made the advancement [Guns and Roses]
+[18Jan2025 02:11:38.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAVIDAD has made the advancement [We Just Want our Hat Back]
+[18Jan2025 02:12:23.649] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[18Jan2025 02:14:07.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC has made the advancement [Eye Spy]
+[18Jan2025 02:16:14.799] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[18Jan2025 02:16:14.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was shot by Skeleton
+[18Jan2025 02:16:14.883] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_18.01.2025-02.16.14.dat
+[18Jan2025 02:16:58.032] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[18Jan2025 02:19:34.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BastiMC lost connection: Disconnected
+[18Jan2025 02:19:34.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC left the game
+[18Jan2025 02:19:36.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mansana_12 lost connection: Disconnected
+[18Jan2025 02:19:36.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 left the game
+[18Jan2025 02:19:45.593] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[18Jan2025 02:19:47.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mansana_12[/127.147.255.185:51811] logged in with entity id 23456 at (-1380.2354996020708, 95.0, 761.167518318122)
+[18Jan2025 02:19:48.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
+[18Jan2025 02:19:48.007] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
+[18Jan2025 02:19:48.417] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BastiMC[/127.147.255.185:34367] logged in with entity id 23515 at (-439.1116445611271, 87.0, 1393.4655627219856)
+[18Jan2025 02:19:48.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC joined the game
+[18Jan2025 02:19:48.438] [Server thread/INFO] [Jade/]: Syncing config to BastiMC (4938fc54-3b3a-35a1-9aac-7049868f6dcb)
+[18Jan2025 02:20:27.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was blown up by Creeper
+[18Jan2025 02:21:24.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 has made the advancement [The Lighthouse]
