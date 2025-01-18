@@ -3589,5 +3589,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-18 22:13:42 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-01-18 22:12:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

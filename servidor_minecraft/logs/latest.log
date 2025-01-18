@@ -857,3 +857,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jan2025 22:12:32.446] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/10544, l='ServerLevel[world]', x=-1382.64, y=35.61, z=811.28, removed=DISCARDED]
 [18Jan2025 22:12:42.180] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
 [18Jan2025 22:12:42.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 has reached the goal [Fighting Nightmares]
+[18Jan2025 22:16:47.963] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[18Jan2025 22:17:51.729] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[18Jan2025 22:17:51.730] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[18Jan2025 22:19:49.614] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[18Jan2025 22:19:49.616] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[18Jan2025 22:22:57.706] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[18Jan2025 22:24:38.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Mansana_12> asd
