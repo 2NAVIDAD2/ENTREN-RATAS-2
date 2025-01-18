@@ -850,3 +850,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jan2025 22:01:37.660] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
 [18Jan2025 22:01:37.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Drowned
 [18Jan2025 22:01:37.683] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_18.01.2025-22.01.37.dat
+[18Jan2025 22:04:31.424] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[18Jan2025 22:04:32.814] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[18Jan2025 22:07:11.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Slugger
+[18Jan2025 22:12:31.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Nightmare Stalker
+[18Jan2025 22:12:32.446] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/10544, l='ServerLevel[world]', x=-1382.64, y=35.61, z=811.28, removed=DISCARDED]
+[18Jan2025 22:12:42.180] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[18Jan2025 22:12:42.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 has reached the goal [Fighting Nightmares]
