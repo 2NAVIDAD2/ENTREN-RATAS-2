@@ -46,6 +46,7 @@
       "minecraft:stony_shore": "2024-12-30 02:09:17 +0000",
       "minecraft:cold_ocean": "2025-01-08 14:45:03 +0000",
       "minecraft:forest": "2024-12-30 01:58:11 +0000",
+      "minecraft:lush_caves": "2025-01-18 22:28:33 +0000",
       "minecraft:jungle": "2024-12-30 01:56:33 +0000",
       "minecraft:ocean": "2025-01-08 14:51:20 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-05 16:25:05 +0000",
@@ -3589,15 +3590,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-01-18 22:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-01-18 22:27:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-01-18 22:13:42 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-18 22:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-18 22:27:26 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-01-18 22:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-01-18 22:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-01-18 22:27:26 +0000"
     },
     "done": true
   },
