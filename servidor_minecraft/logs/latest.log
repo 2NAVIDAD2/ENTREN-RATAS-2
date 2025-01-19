@@ -868,3 +868,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Jan2025 00:44:16.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
 [19Jan2025 00:44:16.838] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
 [19Jan2025 00:47:27.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC has made the advancement [Tools of the Trade]
+[19Jan2025 00:52:05.760] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[19Jan2025 00:54:49.291] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[19Jan2025 00:54:49.292] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[19Jan2025 00:55:23.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[19Jan2025 00:55:23.949] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_19.01.2025-00.55.23.dat
+[19Jan2025 00:56:04.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was slain by Skeleton
+[19Jan2025 00:56:10.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mansana_12 lost connection: Disconnected
+[19Jan2025 00:56:10.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 left the game
+[19Jan2025 00:57:31.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mansana_12[/127.147.255.185:51309] logged in with entity id 16292 at (-1877.726767805844, 150.0, 24.307805627219853)
+[19Jan2025 00:57:31.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
+[19Jan2025 00:57:31.110] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
