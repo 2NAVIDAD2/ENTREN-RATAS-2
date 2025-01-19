@@ -843,3 +843,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Jan2025 00:27:47.492] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
 [19Jan2025 00:27:47.492] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
 [19Jan2025 00:27:47.508] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[19Jan2025 00:31:34.944] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[19Jan2025 00:31:36.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mansana_12[/127.147.255.185:34987] logged in with entity id 2614 at (-967.2483331668981, 66.0, 908.3757677952567)
+[19Jan2025 00:31:36.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
+[19Jan2025 00:31:36.231] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
+[19Jan2025 00:31:37.504] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[19Jan2025 00:32:00.618] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/combatroll/client/RollEffect$Particles
+[19Jan2025 00:36:22.020] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[19Jan2025 00:36:50.789] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/AbstractIllager$IllagerArmPose
+[19Jan2025 00:37:22.398] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[19Jan2025 00:38:35.777] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[19Jan2025 00:38:44.154] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[19Jan2025 00:38:51.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC has made the advancement [The Soul Forge]
