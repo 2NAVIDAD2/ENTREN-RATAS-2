@@ -855,3 +855,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Jan2025 00:38:35.777] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
 [19Jan2025 00:38:44.154] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
 [19Jan2025 00:38:51.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC has made the advancement [The Soul Forge]
+[19Jan2025 00:39:33.141] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[19Jan2025 00:41:35.227] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/Action
+[19Jan2025 00:41:35.228] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/SortingHandler
+[19Jan2025 00:41:35.230] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/ScrollWheelHandler
+[19Jan2025 00:41:35.235] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting cpw/mods/inventorysorter/InventoryHandler
+[19Jan2025 00:43:27.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 was shot by Skeleton
+[19Jan2025 00:43:27.615] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Mansana_12 with unique ID travelersbackpack.sheep_19.01.2025-00.43.27.dat
+[19Jan2025 00:43:40.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mansana_12 lost connection: Disconnected
+[19Jan2025 00:43:40.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 left the game
+[19Jan2025 00:44:16.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mansana_12[/127.147.255.185:40635] logged in with entity id 10283 at (-1865.9857644954407, 87.0, 21.906344499288636)
+[19Jan2025 00:44:16.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mansana_12 joined the game
+[19Jan2025 00:44:16.838] [Server thread/INFO] [Jade/]: Syncing config to Mansana_12 (887507c1-4fac-339a-a66d-6bdc5d5b0927)
+[19Jan2025 00:47:27.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BastiMC has made the advancement [Tools of the Trade]
