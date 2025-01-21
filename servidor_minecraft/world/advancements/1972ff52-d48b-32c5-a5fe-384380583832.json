@@ -7,6 +7,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-01-19 03:56:48 +0000",
+      "minecraft:sunflower_plains": "2025-01-19 03:59:45 +0000",
       "minecraft:bamboo_jungle": "2025-01-18 01:58:49 +0000",
       "minecraft:savanna_plateau": "2025-01-04 23:14:07 +0000",
       "minecraft:beach": "2024-12-30 02:08:38 +0000",
@@ -22,6 +24,7 @@
       "minecraft:flower_forest": "2025-01-06 04:21:24 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-18 02:13:40 +0000",
       "minecraft:deep_dark": "2025-01-10 15:23:54 +0000",
+      "minecraft:meadow": "2025-01-21 15:00:40 +0000",
       "minecraft:savanna": "2024-12-30 02:08:15 +0000",
       "minecraft:plains": "2025-01-04 23:14:54 +0000"
     },
@@ -3830,6 +3833,90 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-01-19 02:32:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honeycomb": "2025-01-19 03:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-01-19 03:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-01-19 03:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-01-19 03:38:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-01-19 03:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-01-19 03:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-01-19 03:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-01-19 03:55:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-01-19 03:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-01-19 03:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-01-19 03:58:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-01-19 03:59:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-01-19 04:06:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-01-19 04:15:41 +0000"
     },
     "done": true
   },
